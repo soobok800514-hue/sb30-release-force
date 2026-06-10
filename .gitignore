@@ -1,0 +1,33 @@
+# 데이터 파일 (개인정보 보호)
+*.xlsx
+*.xls
+*.csv
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# 환경
+venv/
+.venv/
+.env
+.env.*
+
+# 임시 파일
+*.tmp
+*.log
+result.txt
+explore.py
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
